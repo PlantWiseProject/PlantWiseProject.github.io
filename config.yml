@@ -1,1 +1,19 @@
 
+title: Plantwise Project
+tagline: Engineering, Sustainability, and Innovation
+description: Professional blog and project portfolio of Plantwise — exploring chemical engineering, process optimization, and tech-driven health.
+baseurl: ""
+url: "https://plantwiseproject.github.io"
+
+author: Joseph Regan Alali
+  name: Plant Wise Project
+  url: https://github.com/plantwiseproject
+
+email: plantwiseproject19@gmail.com
+github: plantwiseproject
+
+theme: jekyll-theme-slate
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
